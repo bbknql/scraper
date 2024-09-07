@@ -18,3 +18,9 @@ python main.py
 ## License
 
 MIT
+
+## Changes - 2025-10-07
+
+- Adds support for multiple input formats
+- Minor bug fixes and improvements
+- Updated dependencies
