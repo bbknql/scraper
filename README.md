@@ -18,3 +18,9 @@ python main.py
 ## License
 
 MIT
+
+## Changes - 2025-10-07
+
+- Implements real-time data synchronization
+- Minor bug fixes and improvements
+- Updated dependencies
