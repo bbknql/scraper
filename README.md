@@ -18,3 +18,4 @@ python main.py
 ## License
 
 MIT
+# Updated: 2025-10-07 02:45 - Adds support for multiple input formats
